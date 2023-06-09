@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-tmdb-react/static/css/main.65138e23.css",
+    "main.js": "/api-tmdb-react/static/js/main.31693e7e.js",
+    "index.html": "/api-tmdb-react/index.html",
+    "main.65138e23.css.map": "/api-tmdb-react/static/css/main.65138e23.css.map",
+    "main.31693e7e.js.map": "/api-tmdb-react/static/js/main.31693e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65138e23.css",
+    "static/js/main.31693e7e.js"
+  ]
+}
