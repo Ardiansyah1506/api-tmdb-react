@@ -15,7 +15,7 @@ Zii Movie is a React.js web application that leverages The Movie Database (TMDb)
 
 - **Search Functionality**: Zii Movie offers a powerful search feature that enables users to find movies by title, keywords, and more.
 
-## Tech Stack
+## Tech
 
 - **React.js**: The project is built using the React.js library for creating user interfaces.
 
