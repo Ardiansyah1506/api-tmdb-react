@@ -25,6 +25,3 @@ Zii Movie is a React.js web application that leverages The Movie Database (TMDb)
 
 - **Axios**: A promise-based HTTP client for making requests to the TMDb API.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
