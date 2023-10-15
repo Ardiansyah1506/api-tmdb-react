@@ -1,6 +1,6 @@
 # Zii Movie
 
-![Live View](https://ardiansyah1506.github.io/api-tmdb-react)
+[Live View](https://ardiansyah1506.github.io/api-tmdb-react)
 
 ## Overview
 
